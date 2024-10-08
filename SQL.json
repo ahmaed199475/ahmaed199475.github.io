@@ -1,0 +1,2 @@
+SELECT [RoleName]
+  FROM [SalesLocations].[dbo].[tblRole] where RoleID = 1
